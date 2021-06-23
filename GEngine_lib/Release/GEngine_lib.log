@@ -1,0 +1,34 @@
+﻿  CircleCollider.cpp
+  Collider.cpp
+  EllipseCollider.cpp
+  PolygonCollider.cpp
+  SquareCollider.cpp
+  InputManager.cpp
+  Debugger.cpp
+  GameManager.cpp
+  GameObject.cpp
+  ObjectContainer.cpp
+C:\Users\zorin\source\repos\GEngine_lib\GEngine_lib\Engine\Gameplay\ObjectContainer.cpp(39,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\zorin\source\repos\GEngine_lib\GEngine_lib\Engine\Gameplay\ObjectContainer.cpp(71,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\zorin\source\repos\GEngine_lib\GEngine_lib\Engine\Gameplay\ObjectContainer.cpp(91,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\zorin\source\repos\GEngine_lib\GEngine_lib\Engine\Gameplay\ObjectContainer.cpp(98,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\zorin\source\repos\GEngine_lib\GEngine_lib\Engine\Gameplay\ObjectContainer.cpp(102,23): warning C4018: '<': signed/unsigned mismatch
+  ObjectsArray.cpp
+  DrawData.cpp
+  FPSCounter.cpp
+  GraphicManager.cpp
+  BlurShader.cpp
+  LightManager.cpp
+  PixelLightShader.cpp
+  ShaderManager.cpp
+  SmoothLightShader.cpp
+  Scene.cpp
+  Compiling...
+  SceneManager.cpp
+  TimeManager.cpp
+  Coordinate.cpp
+  Line.cpp
+sfml-window.lib(sfml-window-2.dll) : warning LNK4006: __NULL_IMPORT_DESCRIPTOR already defined in sfml-graphics.lib(sfml-graphics-2.dll); second definition ignored
+sfml-audio.lib(sfml-audio-2.dll) : warning LNK4006: __NULL_IMPORT_DESCRIPTOR already defined in sfml-graphics.lib(sfml-graphics-2.dll); second definition ignored
+sfml-system.lib(sfml-system-2.dll) : warning LNK4006: __NULL_IMPORT_DESCRIPTOR already defined in sfml-graphics.lib(sfml-graphics-2.dll); second definition ignored
+  GEngine_lib.vcxproj -> C:\Users\zorin\source\repos\GEngine_lib\GEngine_lib\Release\GEngine_lib.lib

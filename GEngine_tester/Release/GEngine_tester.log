@@ -1,0 +1,6 @@
+﻿  Generating code
+  61 of 756 functions ( 8.1%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    11 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  GEngine_tester.vcxproj -> C:\Users\zorin\source\repos\GEngine_lib\GEngine_tester\Release\GEngine_tester.exe
